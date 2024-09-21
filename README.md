@@ -1,2 +1,2 @@
-Genrador de contrasena perzonalizado
+Generador de contrasena perzonalizado,
 proyecto de primer semestre
